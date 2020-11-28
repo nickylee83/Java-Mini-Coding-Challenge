@@ -1,7 +1,7 @@
 # Java-Mini-Coding-Challenge
 These are the mini coding challenge files that I practise after my final projects and final year's exams. Many more files will be coming to this folder later.
 ------------------- File List And Description ----------------
-1. AlphabetArray.java \n
+1. AlphabetArray.java
 Write a function that returns an array each element is a letter of the alphabet, from "A" to "Z" (exactly once, in order and upper case).
 Your code cannot contain the character \' (quote), \" (double quote) or \` (back quote) both regular and recursive version.
 
