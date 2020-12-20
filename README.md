@@ -23,3 +23,15 @@ e.g. countDigits(-1234) => 4
 6. DuplicateChar.java
 To find duplicate chars in a string, and display the most occurence char and frequency of this char
 e.g.countDuplicateChar("The maximum frequency of duplicate character is the maximum value") => Most duplicate char is e = 7
+
+7. Fibonacci.java
+Show 40 Fibonacci terms (0 to 39) in three different methods. Regular looping array method (show all from 0 to 39th term), recursive method (39th term only) and golden ratio constant method (39th term only).
+
+8. GuessANumAI.java
+Generate a random number between 0 and 1,000,000 and print the number out. And let the algorithm to guess the number and just tell the algorithm whether the guess is too low or too high and count the number of guessses until it has the correct guess. (Note: I have tested many times and the algorithm can guess the number in around 25 times or lower.)
+
+9. IntReverseAndNot.java
+It takes an integer value and returns a string of the backward integer value followed by the original integer value.
+
+10. IntegerToRoman.java
+Convert an integer to a Roman numeral string. Assume only positive integer (1 to 3,999) should be entered.
