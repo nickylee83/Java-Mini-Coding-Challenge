@@ -35,3 +35,13 @@ It takes an integer value and returns a string of the backward integer value fol
 
 10. IntegerToRoman.java
 Convert an integer to a Roman numeral string. Assume only positive integer (1 to 3,999) should be entered.
+
+11. MissingNumber.java
+It creates an array of integers, between 1 and 10, excluding one random number, and it is not sorted. It should return the missing number in the array.
+
+12. NextPrime.java
+To find the next available prime of the given number.
+
+13. PasswordValidation.java
+Password length between 6 and 24 characters, at least - one uppercase letter(A-Z), one lowercase letter(a-z), one digit(0-9), and supported special characters:
+ ! @ # $ % ^ & * ( ) + = _ { } : ; " ' ? < > , .
