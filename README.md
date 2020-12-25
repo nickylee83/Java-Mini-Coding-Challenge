@@ -43,5 +43,5 @@ It creates an array of integers, between 1 and 10, excluding one random number, 
 To find the next available prime of the given number.
 
 13. PasswordValidation.java
-Password length between 6 and 24 characters, at least - one uppercase letter(A-Z), one lowercase letter(a-z), one digit(0-9), and supported special characters:
+Password length between 6 and 24 characters, at least - one uppercase letter(A-Z), one lowercase letter(a-z), one digit(0-9), and one supported special characters:
  ! @ # $ % ^ & * ( ) + = _ { } : ; " ' ? < > , .
