@@ -45,3 +45,18 @@ To find the next available prime of the given number.
 13. PasswordValidation.java
 Password length between 6 and 24 characters, at least - one uppercase letter(A-Z), one lowercase letter(a-z), one digit(0-9), and one supported special characters:
  ! @ # $ % ^ & * ( ) + = _ { } : ; " ' ? < > , .
+
+14. PrintBinaryRecursive.java
+To print the binary format of the given decimal number recursively.
+
+15.RecSumArray.java
+To print out the sum of the given integer array recursively.
+
+16. RecursiveSum.java
+To add the sum of the given number of integer recursively.
+
+17. RomanToInteger.java
+Convert a Roman numeral string to an integer. Assume only positive Roman numerals (1 to 3,999) should be entered.
+
+18.SumOfIntString.java
+To find the sum of integer values in a mixed type array of String and Integer. (Both regular and recursive versions)
